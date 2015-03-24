@@ -1,0 +1,1 @@
+Spoiler alert! This repository contains solutions to some of the problems hosted on projecteuler.net.
